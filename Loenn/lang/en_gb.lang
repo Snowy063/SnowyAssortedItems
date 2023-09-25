@@ -1,0 +1,13 @@
+mods.SnowyAssortedItems.name=Snowy's Assorted Items
+
+# Juckter Field
+entities.SnowyAssortedItems/JuckterField.placements.name.juckter_field=Juckter Field
+entities.SnowyAssortedItems/JuckterGlider.attributes.description.bubble=Whether duplicated jellyfish should hover in the air before being grabbed.
+
+# Juckter Jelly
+entities.SnowyAssortedItems/JuckterGlider.placements.name.juckter_glider=Juckter Jellyfish
+entities.SnowyAssortedItems/JuckterGlider.placements.name.juckter_glider_floating=Juckter Jellyfish (Floating)
+entities.SnowyAssortedItems/JuckterGlider.attributes.description.bubble=Whether the entity should hover in the air before being grabbed.
+
+# Juckter Theo
+entities.SnowyAssortedItems/JuckterTheoCrystal.placements.name.juckter_theo_crystal=Juckter Theo Crystal
