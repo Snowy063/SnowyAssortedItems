@@ -1,0 +1,5 @@
+mods.SnowyAssortedItems.name=Snowy's Assorted Items
+
+# Core Cassette Controller
+triggers.SnowyAssortedItems/CoreCassetteController.placements.name.core_cassette_controller=Core Cassette Controller
+triggers.SnowyAssortedItems/CoreCassetteController.attributes.description.beatsRequired=How many beats need to pass before the core mode changes (1 means it changes on every beat).
