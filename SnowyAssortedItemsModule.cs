@@ -1,5 +1,7 @@
 ﻿using System;
+using Celeste.Mod.SnowyAssortedItems.Triggers;
 using Microsoft.Xna.Framework;
+using SnowyAssortedEntities.Entities;
 
 namespace Celeste.Mod.SnowyAssortedItems {
     public class SnowyAssortedItemsModule : EverestModule {
@@ -22,12 +24,14 @@ namespace Celeste.Mod.SnowyAssortedItems {
 #endif
         }
 
-        public override void Load() {
-            // TODO: apply any hooks that should always be active
+        public override void Load() 
+        {
+            CassetteListener.Load();
         }
 
-        public override void Unload() {
-            // TODO: unapply any hooks applied in Load()
+        public override void Unload() 
+        {
+            CassetteListener.Unload();
         }
     }
 }

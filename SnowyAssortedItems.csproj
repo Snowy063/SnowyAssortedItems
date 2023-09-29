@@ -45,10 +45,6 @@
         </Reference>
     </ItemGroup>
 
-    <ItemGroup>
-      <Folder Include="Triggers\" />
-    </ItemGroup>
-
     <Choose>
         <When Condition="'$(CelesteType)' == 'FNA'">
             <ItemGroup>
