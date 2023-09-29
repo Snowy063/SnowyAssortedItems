@@ -1,2 +1,2 @@
 # SnowyAssortedItems
-Replace with your mod's readme!
+A Celeste mod adding an assortment of entities, triggers and more.
