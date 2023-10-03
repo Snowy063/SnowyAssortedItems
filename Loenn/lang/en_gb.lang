@@ -1,0 +1,47 @@
+mods.SnowyAssortedItems.name=Snowy's Assorted Items
+
+# Juckter Field
+entities.SnowyAssortedItems/JuckterField.placements.name.juckter_field=Juckter Field
+entities.SnowyAssortedItems/JuckterGlider.attributes.description.bubble=Whether duplicated jellyfish should hover in the air before being grabbed.
+
+# Juckter Jelly
+entities.SnowyAssortedItems/JuckterGlider.placements.name.juckter_jellyfish=Juckter Jellyfish
+entities.SnowyAssortedItems/JuckterGlider.placements.name.juckter_jellyfish_floating=Juckter Jellyfish (Floating)
+entities.SnowyAssortedItems/JuckterGlider.attributes.description.bubble=Whether the entity should hover in the air before being grabbed.
+
+# Juckter Theo
+entities.SnowyAssortedItems/JuckterTheoCrystal.placements.name.juckter_theo_crystal=Juckter Theo Crystal
+
+# Linked Trigger Spikes
+entities.SnowyAssortedItems/LinkedTriggerSpikesUp.placements.name.up_default=Linked Trigger Spikes (Up, Default)
+entities.SnowyAssortedItems/LinkedTriggerSpikesUp.placements.name.up_outline=Linked Trigger Spikes (Up, Outline)
+entities.SnowyAssortedItems/LinkedTriggerSpikesUp.placements.name.up_cliffside=Linked Trigger Spikes (Up, Cliffside)
+entities.SnowyAssortedItems/LinkedTriggerSpikesUp.placements.name.up_reflection=Linked Trigger Spikes (Up, Reflection)
+entities.SnowyAssortedItems/LinkedTriggerSpikesDown.placements.name.down_default=Linked Trigger Spikes (Down, Default)
+entities.SnowyAssortedItems/LinkedTriggerSpikesDown.placements.name.down_outline=Linked Trigger Spikes (Down, Outline)
+entities.SnowyAssortedItems/LinkedTriggerSpikesDown.placements.name.down_cliffside=Linked Trigger Spikes (Down, Cliffside)
+entities.SnowyAssortedItems/LinkedTriggerSpikesDown.placements.name.down_reflection=Linked Trigger Spikes (Down, Reflection)
+entities.SnowyAssortedItems/LinkedTriggerSpikesLeft.placements.name.left_default=Linked Trigger Spikes (Left, Default)
+entities.SnowyAssortedItems/LinkedTriggerSpikesLeft.placements.name.left_outline=Linked Trigger Spikes (Left, Outline)
+entities.SnowyAssortedItems/LinkedTriggerSpikesLeft.placements.name.left_cliffside=Linked Trigger Spikes (Left, Cliffside)
+entities.SnowyAssortedItems/LinkedTriggerSpikesLeft.placements.name.left_reflection=Linked Trigger Spikes (Left, Reflection)
+entities.SnowyAssortedItems/LinkedTriggerSpikesRight.placements.name.right_default=Linked Trigger Spikes (Right, Default)
+entities.SnowyAssortedItems/LinkedTriggerSpikesRight.placements.name.right_outline=Linked Trigger Spikes (Right, Outline)
+entities.SnowyAssortedItems/LinkedTriggerSpikesRight.placements.name.right_cliffside=Linked Trigger Spikes (Right, Cliffside)
+entities.SnowyAssortedItems/LinkedTriggerSpikesRight.placements.name.right_reflection=Linked Trigger Spikes (Right, Reflection)
+entities.SnowyAssortedItems/LinkedTriggerSpikesUp.attributes.description.type=Changes the visual appearance of the spikes.
+entities.SnowyAssortedItems/LinkedTriggerSpikesDown.attributes.description.type=Changes the visual appearance of the spikes.
+entities.SnowyAssortedItems/LinkedTriggerSpikesLeft.attributes.description.type=Changes the visual appearance of the spikes.
+entities.SnowyAssortedItems/LinkedTriggerSpikesRight.attributes.description.type=Changes the visual appearance of the spikes.
+entities.SnowyAssortedItems/LinkedTriggerSpikesUp.attributes.description.flag=The group these trigger spikes are part of. The spikes will activate if the flag is set to true and deactivate if it is set to false. Additionally, activating the spikes normally will set the flag to true.
+entities.SnowyAssortedItems/LinkedTriggerSpikesDown.attributes.description.flag=The group these trigger spikes are part of. The spikes will activate if the flag is set to true and deactivate if it is set to false. Additionally, activating the spikes normally will set the flag to true.
+entities.SnowyAssortedItems/LinkedTriggerSpikesLeft.attributes.description.flag=The group these trigger spikes are part of. The spikes will activate if the flag is set to true and deactivate if it is set to false. Additionally, activating the spikes normally will set the flag to true.
+entities.SnowyAssortedItems/LinkedTriggerSpikesRight.attributes.description.flag=The group these trigger spikes are part of. The spikes will activate if the flag is set to true and deactivate if it is set to false. Additionally, activating the spikes normally will set the flag to true.
+entities.SnowyAssortedItems/LinkedTriggerSpikesUp.attributes.description.persistent=Whether the flag should remain set after death or not.
+entities.SnowyAssortedItems/LinkedTriggerSpikesDown.attributes.description.persistent=Whether the flag should remain set after death or not.
+entities.SnowyAssortedItems/LinkedTriggerSpikesLeft.attributes.description.persistent=Whether the flag should remain set after death or not.
+entities.SnowyAssortedItems/LinkedTriggerSpikesRight.attributes.description.persistent=Whether the flag should remain set after death or not.
+
+# Core Cassette Controller
+triggers.SnowyAssortedItems/CoreCassetteController.placements.name.core_cassette_controller=Core Cassette Controller
+triggers.SnowyAssortedItems/CoreCassetteController.attributes.description.beatsRequired=How many beats need to pass before the core mode changes (1 means it changes on every beat).
