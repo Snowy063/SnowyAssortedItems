@@ -1,2 +1,2 @@
 # SnowyAssortedItems
-An assortment of entities and triggers for the game Celeste.
+A Celeste mod adding an assortment of entities, triggers and more.
